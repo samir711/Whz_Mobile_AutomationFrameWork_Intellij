@@ -1,6 +1,6 @@
-D:\IntelliJProject\src\main\java\com\appium\maven\mobile\hybrid\AppKeyword.java
-D:\IntelliJProject\src\main\java\com\appium\maven\mobile\hybrid\GenericKeyword.java
-D:\IntelliJProject\src\main\java\com\appium\maven\mobile\hybrid\util\XlsReader.java
-D:\IntelliJProject\src\main\java\com\appium\maven\mobile\hybrid\Driverscript.java
-D:\IntelliJProject\src\main\java\com\appium\maven\mobile\hybrid\util\ProjectConstants.java
-D:\IntelliJProject\src\main\java\com\appium\maven\mobile\hybrid\util\ExtentManager.java
+D:\IntelliJProject\Core_Hybrid_Maven_Framework\src\main\java\com\appium\maven\mobile\hybrid\AppKeyword.java
+D:\IntelliJProject\Core_Hybrid_Maven_Framework\src\main\java\com\appium\maven\mobile\hybrid\util\ProjectConstants.java
+D:\IntelliJProject\Core_Hybrid_Maven_Framework\src\main\java\com\appium\maven\mobile\hybrid\util\XlsReader.java
+D:\IntelliJProject\Core_Hybrid_Maven_Framework\src\main\java\com\appium\maven\mobile\hybrid\util\ExtentManager.java
+D:\IntelliJProject\Core_Hybrid_Maven_Framework\src\main\java\com\appium\maven\mobile\hybrid\Driverscript.java
+D:\IntelliJProject\Core_Hybrid_Maven_Framework\src\main\java\com\appium\maven\mobile\hybrid\GenericKeyword.java

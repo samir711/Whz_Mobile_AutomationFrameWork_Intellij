@@ -2,15 +2,19 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="com.appium.maven.mobile.hybrid.SampleTest" duration-ms="7967" started-at="2019-01-24T06:11:00Z" finished-at="2019-01-24T06:11:08Z">
+  <suite name="com.appium.maven.mobile.hybrid.SampleTest" duration-ms="28521" started-at="2019-01-24T10:18:01Z" finished-at="2019-01-24T10:18:29Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="7967" started-at="2019-01-24T06:11:00Z" finished-at="2019-01-24T06:11:08Z">
+    <test name="Command line test" duration-ms="28521" started-at="2019-01-24T10:18:01Z" finished-at="2019-01-24T10:18:29Z">
       <class name="com.appium.maven.mobile.hybrid.SampleTest">
-        <test-method status="PASS" signature="testApp()[pri:0, instance:com.appium.maven.mobile.hybrid.SampleTest@62043840]" name="testApp" duration-ms="7957" started-at="2019-01-24T11:41:00Z" finished-at="2019-01-24T11:41:08Z">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:com.appium.maven.mobile.hybrid.SampleTest@327471b5]" name="testApp" duration-ms="27076" started-at="2019-01-24T15:48:01Z" finished-at="2019-01-24T15:48:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testApp -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.appium.maven.mobile.hybrid.SampleTest@327471b5]" name="quit" is-config="true" duration-ms="1434" started-at="2019-01-24T15:48:28Z" finished-at="2019-01-24T15:48:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
       </class> <!-- com.appium.maven.mobile.hybrid.SampleTest -->
     </test> <!-- Command line test -->
   </suite> <!-- com.appium.maven.mobile.hybrid.SampleTest -->
