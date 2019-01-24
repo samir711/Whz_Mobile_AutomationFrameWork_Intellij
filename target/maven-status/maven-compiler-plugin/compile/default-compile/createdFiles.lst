@@ -1,0 +1,6 @@
+com\appium\maven\mobile\hybrid\util\XlsReader.class
+com\appium\maven\mobile\hybrid\AppKeyword.class
+com\appium\maven\mobile\hybrid\util\ProjectConstants.class
+com\appium\maven\mobile\hybrid\GenericKeyword.class
+com\appium\maven\mobile\hybrid\util\ExtentManager.class
+com\appium\maven\mobile\hybrid\Driverscript.class
